@@ -1,0 +1,6 @@
+name=str(input("enter ur name"))
+age=int(input("enter ur age"))
+address=input("enter address")
+print("\nname",name)
+print("\nage",age)
+print("\naddress",address)
